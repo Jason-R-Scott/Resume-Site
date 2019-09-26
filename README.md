@@ -1,5 +1,5 @@
 
-This my repo links to my deployed resume site at https://jasonRscott.com
+This repo links to my deployed resume site at https://jasonRscott.com
 
 Feel free to contact me via email on my site for any comments or questions.
 
@@ -7,7 +7,7 @@ Have a great day!
 
 Jason R Scott
 
-I customized this template which I obtained from Start Bootstrap. Their templates are excellent and I am very grateful they are open source. This was a pleasure to work with and their work is truly excellent. Info on Start Bootstrap below. Check them out!
+I customized this free template from Start Bootstrap. Check them out!
 
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
