@@ -1,5 +1,5 @@
 
-This repo links to my deployed resume site at https://jasonRscott.com
+This repo links to my resume site deployed via Netlify at https://jasonRscott.com
 
 Feel free to contact me via email on my site for any comments or questions.
 
